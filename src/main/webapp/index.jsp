@@ -7,7 +7,7 @@
 </head>
 <body>
 	<form>
-		<label>First Name:</label><br>
+		<label>First Names:</label><br>
 		<input type="text" name="fname" value="Samples"><br>	
 		<label>Last Name:</label><br>
 		<input type="text" name="lname" value="Raj"><br>	 
