@@ -9,7 +9,7 @@
 	<form>
 		<label>First Names:</label><br>
 		<input type="text" name="fname" value="Samples"><br>	
-		<label>Last Name:</label><br>
+		<label>Last Names:</label><br>
 		<input type="text" name="lname" value="Raj"><br>	 
 		<input type="radio" id="male" name="gender" value="male">
 		<label for="male">Male</label>
