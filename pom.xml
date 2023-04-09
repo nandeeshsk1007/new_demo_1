@@ -10,6 +10,8 @@
   <properties>
 <sonar.host.url>http://13.233.161.245:9000/</sonar.host.url>
 <sonar.login> sqa_c9f964f30655bbded374b5b744cf2b3147ae19a4</sonar.login>
+    <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+    <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
 </properties>
 
   <dependencies>
@@ -23,8 +25,5 @@
   <build>
     <finalName>samples</finalName>
   </build>
-  <properties>
-    <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-    <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
-</properties>
+  
 </project>
